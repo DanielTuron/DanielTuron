@@ -16,15 +16,15 @@ Getting more comfortable with Javascript, DJango, and Node, in the process of cr
 
 ### Some of my hobbies/interests include...
 
-* Coding
-* Football
-* Fantasy Football
-* Theatre
-* Chess
-* Reading
-* Exercise
-* Pop science (especially in physics and space science)
-* Board Games
+* Coding :technologist:
+* Football :soccer:
+* Fantasy Football :goal_net:
+* Theatre :performing_arts:
+* Chess :chess_pawn:
+* Reading :open_book:
+* Exercise :weight_lifting_man:
+* Pop science (especially in physics and space science) :telescope:
+* Board Games :game_die:
 
 ### Fun facts about me...
 * I was the global champion of the 2022 UCL Fantasy Football, out of 2.5m+ members.
