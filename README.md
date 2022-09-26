@@ -4,6 +4,16 @@
 I am a Canadian Physics and Computer Science student attending my 3rd year at the 
 University of Manitoba. I plan on graduating in the spring of 2025.
 
+### Reach me at...
+turond@myumanitoba.ca
+
+### Skills...
+Python / Java / Matlab / C / SQL
+
+### I am currently working on...
+Getting more comfortable with Javascript, DJango, and Node, in the process of creating my own Spotify web application.
+
+
 ### Some of my hobbies/interests include...
 
 * Coding
@@ -21,6 +31,4 @@ University of Manitoba. I plan on graduating in the spring of 2025.
 * I absolutely love the Netflix show 'Stranger Things'
 * My favorite Football team is Tottenham Hotspurs
 * My current favorite board game is Aeons End
-### Reach me at...
-turond@myumanitoba.ca
 
