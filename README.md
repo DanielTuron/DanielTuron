@@ -2,7 +2,7 @@
 ###### General Kenobi
 ## My name is Daniel Turon,
 I am a Canadian Physics and Computer Science student attending my 3rd year at the 
-University of Manitoba.
+University of Manitoba. I plan on graduating in the spring of 2025.
 
 ### Some of my hobbies/interests include...
 
@@ -14,6 +14,13 @@ University of Manitoba.
 * Reading
 * Exercise
 * Pop science (especially in physics and space science)
+* Board Games
 
-### I am an aspiring software engineer! My resume can be found here...
+### Fun facts about me...
+* I was the global champion of the 2022 UCL Fantasy Football, out of 2.5m+ members.
+* I absolutely love the Netflix show 'Stranger Things'
+* My favorite Football team is Tottenham Hotspurs
+* My current favorite board game is Aeons End
+### Reach me at...
+turond@myumanitoba.ca
 
