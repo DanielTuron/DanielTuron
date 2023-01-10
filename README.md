@@ -8,7 +8,7 @@ University of Manitoba. I plan on graduating in the spring of 2025.
 turond@myumanitoba.ca
 
 ### Skills...
-Python / Java / Matlab / C / SQL
+Python / Java / Matlab / C / SQL / Javascript / C++ / Django / React
 
 ### I am currently working on...
 Getting more comfortable with Javascript, DJango, and Node, in the process of creating my own Spotify web application.
@@ -30,5 +30,5 @@ Getting more comfortable with Javascript, DJango, and Node, in the process of cr
 * I was the global champion of the 2022 UCL Fantasy Football, out of 2.5m+ members.
 * I absolutely love the Netflix show 'Stranger Things'
 * My favorite Football team is Tottenham Hotspurs
-* My current favorite board game is Aeons End
+* My current favorite board game is Rising Sun
 
