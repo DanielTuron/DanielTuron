@@ -10,10 +10,6 @@ turond@myumanitoba.ca
 ### Skills...
 Python / Java / Matlab / C / SQL / Javascript / C++ / Django / React
 
-### I am currently working on...
-Getting more comfortable with Javascript, DJango, and Node, in the process of creating my own Spotify web application.
-
-
 ### Some of my hobbies/interests include...
 
 * Coding :technologist:
